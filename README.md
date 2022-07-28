@@ -17,7 +17,7 @@ This is a simple Django 3.0+ project template with my preferred setup. Most Djan
 
 ```bash
 $ django-admin.py startproject \
-  --template=https://github.com/jpadilla/django-project-template/archive/master.zip \
+  --template=https://github.com/tonnyec/django-project-template/archive/master.zip \
   --name=Procfile \
   --extension=py,md,env \
   project_name
